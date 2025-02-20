@@ -1,6 +1,11 @@
 # Pong
 Made with Unity 6
 
+## Install
+- Clone this repository or download and extract the zip file
+- Using Unity Hub, Add this project from disk and open using a Unity 6 Editor
+  - Others _might_ be compatible, but no guarantee 
+
 ## Challenges
 - Add UI elements to the Canvas
   - Add Text that update when the Game Manager Object Updates the score
